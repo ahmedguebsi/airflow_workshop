@@ -1,0 +1,4 @@
+ID,TEXT,LABELS
+8,updated text serialized,[javascript]
+9,serialized,"[python, java]"
+10,serialization test,"[python, pgsql]"
