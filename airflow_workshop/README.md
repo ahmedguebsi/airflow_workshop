@@ -1,23 +1,11 @@
-# Airflow 2.x for ML Pipeline Workshop - PyCon Sweden 2021
+# Airflow 2.x for ML Pipeline 
 
-This is the corresponding git repo for PyCon Sweden 2021 Airflow 2.x for ML Pipeline Workshop.
 
 ## Pre-requisites
 
 The whole workshop will work on your local docker environment. 
 
 You should have `docker` and `docker-compose` installed on your machine !
-
-The easiest way to have everything ready for the workshop is to install [Docker Desktop](https://docs.docker.com/desktop/.)
-
-### Docker resource requirement
-Minimum resource requirement for docker to start all the services is mentioned below:
-
-| Resource    | Recommendation |
-| ----------- | -------------- |
-| Memory      | 3 GB           |
-| CPU         | 2 CPU          |
-
 
 ## Getting started
 
@@ -59,9 +47,6 @@ http://localhost:5000
 
 http://localhost:5555
 
-### 5. Try out the exercises
-- Exercise 1: Checkout to [feature/exercise1_training_DAG](https://github.com/pycon-ml/airflow_workshop/tree/feature/exercise1_training_DAG) branch.
-- Exercise 2: Checkout to [feature/exercise2_predict_multi_batch](https://github.com/pycon-ml/airflow_workshop/tree/feature/exercise2_predict_multi_batch) branch.
 
 ## Tear down
 
